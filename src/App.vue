@@ -32,5 +32,6 @@ export default {
 <style>
 #app {
     padding-top : 28px;  
+    
 }
 </style>
